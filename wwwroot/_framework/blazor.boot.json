@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Lotsalot",
   "resources": {
-    "hash": "sha256-MaHQ6azoQpIqU/FwtG2JO748C+hEmoVkjSlS01Dm2yM=",
+    "hash": "sha256-oq2UyN/iYul/cPOugi0iMER/Q4E7AnTlewLeEBNbGeE=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.h30izgco06.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.htnpsp1qm3.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -46,7 +46,7 @@
       "System.Threading.acwnquwc9t.wasm": "System.Threading.wasm",
       "System.wznexm8bk2.wasm": "System.wasm",
       "System.Private.CoreLib.jce8eiuwqw.wasm": "System.Private.CoreLib.wasm",
-      "Lotsalot.9p3sofmsle.wasm": "Lotsalot.wasm",
+      "Lotsalot.kxq6qdc6fd.wasm": "Lotsalot.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.st0ovrfdhi.js": "dotnet.native.js",
       "dotnet.native.67rumul467.wasm": "dotnet.native.wasm",
@@ -107,7 +107,7 @@
       "System.Text.RegularExpressions.2kvmmt8k3b.wasm": "sha256-vswCSHPuIQ3m8HYRrGg83IRJqPiUJi05LqQapqFv3lw=",
       "System.Threading.acwnquwc9t.wasm": "sha256-hmq7E5RBDuX9WHoN8bZjejvmxHmSFsAk0rO4O+E/LOg=",
       "System.wznexm8bk2.wasm": "sha256-/Imz/Enqa2AZc4T3k/CqtsM6674KRN9OUtvK4Nokhew=",
-      "Lotsalot.9p3sofmsle.wasm": "sha256-Q+qtYaWog6id087abrYhSRfLDh16X+mmAMuK4WE4qxo="
+      "Lotsalot.kxq6qdc6fd.wasm": "sha256-KER547D+iz2JergiuPBXJh0P5jBCeejXV2vBx/WPaJA="
     }
   },
   "cacheBootResources": true,
