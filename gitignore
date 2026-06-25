@@ -1,0 +1,12 @@
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.cache
+*.log
+.vs/
+.idea/
+*.swp
+*.swo
+publish/
