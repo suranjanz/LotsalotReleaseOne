@@ -31,6 +31,8 @@ namespace LotsalotTestApi.Controllers
 
                 if (response.IsSuccessStatusCode)
                 {
+                    if (string.IsNullOrEmpty(content)) return "Error : No Data from Controller";
+                    if (content.Contains("Lotsalot")) return "Error : Index Returned From Controller";
                     return content;
                 }
 
