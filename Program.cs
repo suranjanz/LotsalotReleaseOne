@@ -50,7 +50,7 @@ app.MapGet("/api/csv/{year}", async (int year, IHttpClientFactory factory) =>
     catch (Exception ex)
     {
         // This will show the exact error in your browser
-        return Results.Text($"ERROR: {ex.GetType().Name} - {ex.Message}\n{ex.StackTrace}");
+        return Results.Text($"Error : {ex.GetType().Name} - {ex.Message}\n{ex.StackTrace}");
     }
 });
 
