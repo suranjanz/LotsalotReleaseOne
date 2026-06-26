@@ -22,6 +22,9 @@ namespace LotsalotTestApi.Controllers
             try
             {
                 var client = _clientFactory.CreateClient();
+		
+        	client.DefaultRequestHeaders.TryAddWithoutValidation("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36");
+        	client.DefaultRequestHeaders.TryAddWithoutValidation("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8");
 
                 // Explicitly limit how long the server will wait for the external URL (e.g., 10 seconds)
                 client.Timeout = TimeSpan.FromSeconds(10);
