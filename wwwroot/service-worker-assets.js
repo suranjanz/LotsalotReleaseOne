@@ -1,13 +1,13 @@
 self.assetsManifest = {
-  "version": "JLMnAb6Y",
+  "version": "unBafBhn",
   "assets": [
     {
       "hash": "sha256-aLF5Ka0vua41+QMgWz+jZATI4In7yhtox9prOJiG6ag=",
       "url": "Lotsalot.styles.css"
     },
     {
-      "hash": "sha256-ZeChkAhV4/ovIwBZ85jTTRTJIU6jVcGkcrwOns/BCT0=",
-      "url": "_framework/Lotsalot.5kp0zzzndy.wasm"
+      "hash": "sha256-C7SP1jPBJl+WTYIJfu5PUP4mc70aeangkZ8hLQbyb38=",
+      "url": "_framework/Lotsalot.9buym2ead0.wasm"
     },
     {
       "hash": "sha256-URCA/mzpfPGl6w7tojvniXc1TQaVkImsufaaaNawhSU=",
@@ -190,7 +190,7 @@ self.assetsManifest = {
       "url": "_framework/System.e3zjcgk0va.wasm"
     },
     {
-      "hash": "sha256-we0o0Aqg/oMT808GVi2s007MiJzPqInzQ+BV24jtHcE=",
+      "hash": "sha256-OpG7ZAMcDhTNNU9JjzgVYRJ9aDl1PTLS01ggkOGdhZU=",
       "url": "_framework/blazor.boot.json"
     },
     {
